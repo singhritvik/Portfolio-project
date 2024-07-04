@@ -32,8 +32,7 @@ const WorkExp = () => {
                 Udghosh, IIT Kanpur
               </h4>
               <p>
-                Creative Direction, User Experience, Visual Design, Project
-                Management, Team Leading
+                Captain ,Institute Cricket Team
               </p>
             </VerticalTimelineElement>
           </VerticalTimeline>
