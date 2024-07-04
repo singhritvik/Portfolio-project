@@ -21,7 +21,7 @@ const Education = () => {
             className="vertical-timeline-element--work"
             contentStyle={{ background: "rgb(196, 241, 241)", color: "black" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
-            date="2020 - present"
+            date="2020 - 2024"
             iconStyle={{ background: "#138781", color: "#fff" }}
             icon={<MdSchool />}
           >
@@ -34,7 +34,7 @@ const Education = () => {
             className="vertical-timeline-element--work"
             contentStyle={{ background: "rgb(196, 241, 241)", color: "black" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
-            date="2018 - 2019"
+            date="2017 - 2019"
             iconStyle={{ background: "#138781", color: "#fff" }}
             icon={<MdSchool />}
           >
@@ -42,7 +42,7 @@ const Education = () => {
               Senior Secondary
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
-              AVS Jodhpur, India
+              Mantora Public School, India
             </h4>
           </VerticalTimelineElement>
         </VerticalTimeline>
